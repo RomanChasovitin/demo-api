@@ -1,0 +1,17 @@
+{
+  "users": {
+    "ok": true,
+    "data": [
+      {
+        "id": 1,
+        "firstName": "Vanessa",
+        "lastName": "Fahrmann",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "phoneNumber": "+99621509322",
+        "email": "vanessa.f@gomail.com",
+        "website": "vanessa.fm"
+      }
+    ]
+  }
+}
